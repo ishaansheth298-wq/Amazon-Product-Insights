@@ -1,2 +1,21 @@
-# Amazon-Product-Insights
-Amazon Product Insights  Analyzed Amazon product data using Python, Pandas, and Matplotlib. Identified top-rated products, discount trends, and category-wise performance metrics. Performed data cleaning, aggregation, and visualization to derive actionable insights. Created graphical representations of category ratings for exploratory data analysis.
+# Amazon Product Insights
+
+## Overview
+Analyzed Amazon product data using Python, Pandas, and Matplotlib.
+
+## Features
+- Top Rated Products Analysis
+- Highest Discount Analysis
+- Category-wise Rating Analysis
+- Data Visualization
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+
+## Results
+- Identified highest-rated products
+- Compared discount percentages
+- Analyzed category performance
+- Generated visual insights using charts
